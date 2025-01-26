@@ -11,7 +11,7 @@ This project implements a simple "Chase the Ace" card game in a web browser.  Th
 
 ## Usage
 
-1. Clone the repository:  `git clone <repository_url>`
+1. Clone the repository:  `git clone https://github.com/ahitagnied/chace.git`
 2. Open `index.html` in your web browser.
 
 ## Installation
